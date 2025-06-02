@@ -2,7 +2,7 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 
 //IMAGE//
-import img from "../../assets/Images/Logo.png";
+import img from "../../assets/Images/logo.png";
 
 //ICONS//
 import { FiInstagram } from "react-icons/fi";

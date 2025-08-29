@@ -2,8 +2,7 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <>
-      <section className="">
+      <section>
         <div className="contact-hero relative">
           <h1 className="contact-hero-content text-3xl text-black font-extrabold">
             CONTACT US
@@ -19,7 +18,6 @@ const Contact = () => {
             channels below:
           </p>
         </div>
-      </section>
 
       <div>
         <div className="flex items-center justify-center mt-10 mx-4 md:mx-4">
@@ -71,7 +69,7 @@ const Contact = () => {
           </div>
         </section>
       </div>
-    </>
+      </section>
   );
 };
 
